@@ -1,0 +1,2 @@
+graft min_app/templates
+global-exclude *.pyc
